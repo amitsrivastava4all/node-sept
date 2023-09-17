@@ -1,0 +1,14 @@
+Create a File Having Phone Numbers Along with Name
+Name and Phone Number
+e.g Amit, 2222
+Tim, 3333
+Vim,2221
+
+
+Add a New Phone Number
+Update Existing Phone Number or Name
+Delete BY Phone Number or Name
+Print All 
+Search By Phone or Name
+
+All the Data Store/ Update in a file
